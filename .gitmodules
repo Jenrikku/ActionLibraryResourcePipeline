@@ -1,0 +1,6 @@
+[submodule "SPICA"]
+	path = SPICA
+	url = https://github.com/KillzXGaming/SPICA
+[submodule "OeadWrapper/oead"]
+	path = OeadWrapper/oead
+	url = https://github.com/fruityloops1/oead
